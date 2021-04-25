@@ -369,20 +369,35 @@ Level AA
 <summary>참고자료</summary>
 
 <a href="https://nuli.navercorp.com/community/article/1132999%22%3EWCAG" >2.1 한글 번역</a>
+<br>
 <a href="https://www.w3.org/TR/WCAG21/#background-on-wcag-2%22%3EW3C"> WCAG 2.1</a>
+<br>
 <a href="https://www.11st.co.kr">11번가</a>
+<br>
 <a href="https://www.apple.com">애플</a>
+<br>
 <a href="https://dic.daum.net">다음 어학사전</a>
+<br>
 <a href="https://seulbinim.github.io/WSA/table.html#scope-id-headers-속성">테이블 관련 요소</a>
+<br>
 <a href="https://www.discovery.com/nature/environmentalists-who-changed--and-continue-to-change--the-world">Environmentalists Who Changed (and Continue to Change) the World</a>
+<br>
 <a href="https://www.discovery.com/nature/first-dog-in-the-us-tests-positive-for-coronavirus">First Dog in the US Tests Positive for Coronavirus</a>
+<br>
 <a href="https://www.google.com">google</a>
+<br>
 <a href="https://www.musinsa.com">무신사</a>
+<br>
 <a href="https://www.nature.com/articles/s41467-020-19623-x">Associations between blood type and COVID-19 infection, intubation, and death</a>
+<br>
 <a href="https://naver.com">네이버</a>
+<br>
 <a href="https://www.epost.go.kr/main.retrieveMainPage.comm">우체국 홈페이지</a>
+<br>
 <a href="https://www.scope.org.uk">스코프 홈페이지</a>
+<br>
 <a href="https://www.w3.org">W3C 홈페이지</a>
+<br>
 <a href="https://inviqa.com/blog/web-accessibility-examples-5-sites-doing-it-right">Web accessibility examples: 5 sites doing it right</a>
 
 </details>
