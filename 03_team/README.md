@@ -38,4 +38,6 @@ WCAG 2.1은 광범위한 사용자(웹 디자이너, 개발자, 정책 입안자
 <a href="https://nuli.navercorp.com/community/article/1132999%22%3EWCAG" >2.1 한글 번역</a>
 <br>
 <a href="https://www.w3.org/TR/WCAG21/#background-on-wcag-2%22%3EW3C"> WCAG 2.1</a>
+<a href="https://www.naver.com">naver</a>
+<a href="https://www.youtube.com">유튜브</a>
 </details>
